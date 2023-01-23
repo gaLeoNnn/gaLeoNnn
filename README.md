@@ -1,9 +1,8 @@
-### Hi there 👋
+### 
 
-<!--
-**gaLeoNnn/gaLeoNnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<img src="https://img.shields.io/badge/HTML-FF4500?style=for-the-badge&logo=HTML5&logoColor=E0FFFF"/> <img src="https://img.shields.io/badge/CSS-1E90FF?style=for-the-badge&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-FFD700?style=for-the-badge&logo=JAVA&logoColor=E0FFFF"/> <img src="https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/React-AFEEEE?style=for-the-badge&logo=React&logoColor=blue"/>
